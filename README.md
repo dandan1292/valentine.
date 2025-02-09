@@ -67,7 +67,7 @@
     <script>
         function moveButton() {
             let button = document.querySelector('.no');
-            let x = Math.random() * (window.innerWidth - 100);
+            let x = Math.random() * (window.innerWidth - 50);
             let y = Math.random() * (window.innerHeight - 50);
             button.style.left = `${x}px`;
             button.style.top = `${y}px`;
