@@ -57,10 +57,10 @@
 </head>
 <body>
     <div class="container">
-        <h1>Khatrizze Khate Dormido, Will you be my Valentine on Feb 14? ❤️</h1>
+        <h1>Rizelle Ann Devila, Will you be my Valentine on Feb 14? ❤️</h1>
         <div class="heart">❤️</div>
         <div class="buttons">
-            <a class="yes" href="#" onclick="alert('Mayo man, I love you, LOVEEEEEE MWAAAAAAAA ❤️')">Yes</a>
+            <a class="yes" href="#" onclick="alert('Berigoods a, I love you, LOVEEEEEE MWAAAAAAAA ❤️')">Yes</a>
             <button class="no" onmouseover="moveButton()">No</button>
         </div>
     </div>
