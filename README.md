@@ -33,7 +33,7 @@
             to { transform: scale(1.2); }
         }
         .buttons {
-            margin-top: 20px;
+            margin-top: 10px;
         }
         button, a {
             display: inline-block;
