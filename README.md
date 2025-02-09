@@ -16,7 +16,7 @@
         }
         .container {
             background: white;
-            padding: 20px;
+            padding: 15px;
             border-radius: 15px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
@@ -25,7 +25,7 @@
         }
         .heart {
             color: red;
-            font-size: 50px;
+            font-size: 40px;
             animation: heartbeat 1s infinite alternate;
         }
         @keyframes heartbeat {
